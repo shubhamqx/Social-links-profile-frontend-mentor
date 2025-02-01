@@ -25,8 +25,8 @@ this is a project that shows a social media profile page layout with
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/shubhamqx/Social-links-profile-frontend-mentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://github.com/shubhamqx/Social-links-profile-frontend-mentor)
+- Live Site URL: [My Solution live](https://shubhamqx.github.io/Social-links-profile-frontend-mentor/)
 
 ## My process
 
